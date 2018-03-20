@@ -1,0 +1,13 @@
+{
+  "test_custom_base5.py": true,
+  "test_factorize_number.py": true,
+  "test_factorize_number.py::TestFactorizeNumber::test_method_1": true,
+  "test_factorize_number.py::TestFactorizeNumber::test_method_2": true,
+  "test_factorize_number.py::TestFactorizeNumber::test_method_3": true,
+  "test_factorize_number.py::TestFactorizeNumber::test_method_4": true,
+  "test_factorize_number.py::TestFactorizeNumber::test_method_5": true,
+  "test_get_hcf.py": true,
+  "test_get_lcm.py": true,
+  "test_top_chars.py": true,
+  "test_top_earners.py": true
+}
